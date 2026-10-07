@@ -1,2 +1,5 @@
 /.idea/*
 *.pdf
+__pycache__/
+.venv/
+traces/
